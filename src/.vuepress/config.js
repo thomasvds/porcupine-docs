@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: 'An Open-Source SaaS Permissions Engine',
+  description: 'Secure, fast, and flexible SaaS permissions engine',
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
